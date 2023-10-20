@@ -33,6 +33,8 @@ I also love studying and learning a new language, at the moment I am studying En
  <a href="https://web.whatsapp.com/">
    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  </a>
-
+ <a href="https://www.linkedin.com/in/wesley-coelho-a87085297/">
+   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+ </a>
  
 </div>

@@ -7,8 +7,7 @@ Estou me graduando no curso de Sistemas de Informação pela Cruzeiro do sul e d
 No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
 Sou aluno na [Rocketseat](https:/rocketseat.com) e faço muitos cursos pela Udemy, no momento estou fazendo cursos da Udemy com colt steele e Dr. Angela Yu.
 
-
-Também amo café, ouvir todo tipo de música e estou disponível para conexões e trocas de ideias!
+I also love studying and learning a new language, at the moment I am studying English and German.
 
 
 <div align="center">

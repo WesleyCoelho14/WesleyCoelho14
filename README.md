@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-Estou me graduando no curso de Sistemas de Informação pela Cruzeiro do sul e desenvolvedor web Front-end, entusiasta das tecnologias JavaScript. 
-
-No momento, meu foco de estudos é em React.js e em Node.js - em um futuro próximo, viso me tornar um desenvolvedor Full Stack.
-Sou aluno na [Rocketseat](https:/rocketseat.com) e faço muitos cursos pela Udemy, no momento estou fazendo cursos da Udemy com colt steele e Dr. Angela Yu.
+Olá! Eu sou Wesley
+Estou fazendo transição de carreira, em busca de oportunidades para desenvolver minhas habilidades e contribuir para projetos desafiadores. espero em breve conseguir minha primeira oportunidade como Desenvolvedor.
+Essa jornada começou quando estava numa viagem e decidir que quero ter um emprego que posso trabalhar em qualquer lugar do mundo. Foi uma decisão desafiadora, mas também muito gratificante, atualmente também estou cursando Análise e Desenvolvimento de Sistemas e Gestão da Tecnologia da Informação para ampliar ainda mais minha base de conhecimento,minha jornada ainda está em andamento.
+ Quero trabalhar ao lado de pessoas inspiradoras, enfrentar desafios complexos e continuar crescendo como profissional. Se você compartilha dessa visão e está em busca de um colega de equipe apaixonado e determinado, ficarei feliz em nos conectarmos.
 
 I also love studying and learning a new language, at the moment I am studying English and German.
 
